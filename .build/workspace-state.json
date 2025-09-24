@@ -9,7 +9,7 @@
           "location" : "https://github.com/275919229/TestFlyVerifyCSDKSPM.git",
           "name" : "TestFlyVerifyCSDKSPM"
         },
-        "path" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/checkouts/TestFlyVerifyCSDKSPM/Frameworks/FlyVerifyCSDK.xcframework",
+        "path" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/checkouts/TestFlyVerifyCSDKSPM/Frameworks/FlyVerifyCSDK.xcframework",
         "source" : {
           "type" : "local"
         },
@@ -20,10 +20,10 @@
         "packageRef" : {
           "identity" : "testmobfoundationspm",
           "kind" : "root",
-          "location" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git",
+          "location" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM",
           "name" : "TestMOBFoundationSPM"
         },
-        "path" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/Frameworks/MOBFoundation.xcframework",
+        "path" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/Frameworks/MOBFoundation.xcframework",
         "source" : {
           "type" : "local"
         },

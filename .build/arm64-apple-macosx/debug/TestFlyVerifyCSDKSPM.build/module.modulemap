@@ -1,4 +1,4 @@
 module TestFlyVerifyCSDKSPM {
-    header "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/TestFlyVerifyCSDKSPM-Swift.h"
+    header "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/TestFlyVerifyCSDKSPM-Swift.h"
     requires objc
 }

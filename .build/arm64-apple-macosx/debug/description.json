@@ -1,8 +1,8 @@
 {
   "builtTestProducts" : [
     {
-      "binaryPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.xctest/Contents/MacOS/TestMOBFoundationSPMPackageTests",
-      "packagePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git",
+      "binaryPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.xctest/Contents/MacOS/TestMOBFoundationSPMPackageTests",
+      "packagePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM",
       "productName" : "TestMOBFoundationSPMPackageTests"
     }
   ],
@@ -23,46 +23,46 @@
   "swiftCommands" : {
     "C.TestFlyVerifyCSDKSPM-arm64-apple-macosx15.0-debug.module" : {
       "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
-      "fileList" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/sources",
-      "importPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules",
+      "fileList" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/sources",
+      "importPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules",
       "inputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/checkouts/TestFlyVerifyCSDKSPM/Sources/TestFlyVerifyCSDKSPM/TestFlyVerifyCSDKSPM.swift"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/checkouts/TestFlyVerifyCSDKSPM/Sources/TestFlyVerifyCSDKSPM/TestFlyVerifyCSDKSPM.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/sources"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/sources"
         }
       ],
       "isLibrary" : true,
       "moduleName" : "TestFlyVerifyCSDKSPM",
-      "moduleOutputPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules/TestFlyVerifyCSDKSPM.swiftmodule",
+      "moduleOutputPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules/TestFlyVerifyCSDKSPM.swiftmodule",
       "objects" : [
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/TestFlyVerifyCSDKSPM.swift.o"
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/TestFlyVerifyCSDKSPM.swift.o"
       ],
       "otherArguments" : [
         "-target",
         "arm64-apple-macosx10.13",
         "-enable-batch-mode",
         "-index-store-path",
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/index/store",
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/index/store",
         "-Onone",
         "-enable-testing",
         "-j10",
         "-DSWIFT_PACKAGE",
         "-DDEBUG",
         "-module-cache-path",
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/ModuleCache",
         "-parseable-output",
         "-parse-as-library",
         "-emit-objc-header",
         "-emit-objc-header-path",
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/TestFlyVerifyCSDKSPM-Swift.h",
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/TestFlyVerifyCSDKSPM-Swift.h",
         "-color-diagnostics",
         "-swift-version",
         "6",
@@ -93,66 +93,66 @@
         "-package-name",
         "testflyverifycsdkspm"
       ],
-      "outputFileMapPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/output-file-map.json",
+      "outputFileMapPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/output-file-map.json",
       "outputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/TestFlyVerifyCSDKSPM.swift.o"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/TestFlyVerifyCSDKSPM.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules/TestFlyVerifyCSDKSPM.swiftmodule"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules/TestFlyVerifyCSDKSPM.swiftmodule"
         }
       ],
       "prepareForIndexing" : false,
       "sources" : [
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/checkouts/TestFlyVerifyCSDKSPM/Sources/TestFlyVerifyCSDKSPM/TestFlyVerifyCSDKSPM.swift"
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/checkouts/TestFlyVerifyCSDKSPM/Sources/TestFlyVerifyCSDKSPM/TestFlyVerifyCSDKSPM.swift"
       ],
-      "tempsPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build",
+      "tempsPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build",
       "wholeModuleOptimization" : false
     },
     "C.TestMOBFoundationSPM-arm64-apple-macosx15.0-debug.module" : {
       "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
-      "fileList" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/sources",
-      "importPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules",
+      "fileList" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/sources",
+      "importPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules",
       "inputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/Sources/TestMOBFoundationSPM/TestMOBFoundationSPM.swift"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/Sources/TestMOBFoundationSPM/TestMOBFoundationSPM.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/sources"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/sources"
         }
       ],
       "isLibrary" : true,
       "moduleName" : "TestMOBFoundationSPM",
-      "moduleOutputPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPM.swiftmodule",
+      "moduleOutputPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPM.swiftmodule",
       "objects" : [
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/TestMOBFoundationSPM.swift.o"
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/TestMOBFoundationSPM.swift.o"
       ],
       "otherArguments" : [
         "-target",
         "arm64-apple-macosx10.13",
         "-enable-batch-mode",
         "-index-store-path",
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/index/store",
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/index/store",
         "-Onone",
         "-enable-testing",
         "-j10",
         "-DSWIFT_PACKAGE",
         "-DDEBUG",
         "-module-cache-path",
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/ModuleCache",
         "-parseable-output",
         "-parse-as-library",
         "-emit-objc-header",
         "-emit-objc-header-path",
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/TestMOBFoundationSPM-Swift.h",
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/TestMOBFoundationSPM-Swift.h",
         "-color-diagnostics",
         "-swift-version",
         "6",
@@ -180,70 +180,70 @@
         "-package-name",
         "testmobfoundationspm"
       ],
-      "outputFileMapPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/output-file-map.json",
+      "outputFileMapPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/output-file-map.json",
       "outputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/TestMOBFoundationSPM.swift.o"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/TestMOBFoundationSPM.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPM.swiftmodule"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPM.swiftmodule"
         }
       ],
       "prepareForIndexing" : false,
       "sources" : [
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/Sources/TestMOBFoundationSPM/TestMOBFoundationSPM.swift"
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/Sources/TestMOBFoundationSPM/TestMOBFoundationSPM.swift"
       ],
-      "tempsPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build",
+      "tempsPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build",
       "wholeModuleOptimization" : false
     },
     "C.TestMOBFoundationSPMPackageTests-arm64-apple-macosx15.0-debug.module" : {
       "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
-      "fileList" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/sources",
-      "importPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules",
+      "fileList" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/sources",
+      "importPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules",
       "inputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPMTests.swiftmodule"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPMTests.swiftmodule"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/sources"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/sources"
         }
       ],
       "isLibrary" : true,
       "moduleName" : "TestMOBFoundationSPMPackageTests",
-      "moduleOutputPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPMPackageTests.swiftmodule",
+      "moduleOutputPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPMPackageTests.swiftmodule",
       "objects" : [
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/runner.swift.o"
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/runner.swift.o"
       ],
       "otherArguments" : [
         "-target",
         "arm64-apple-macosx10.13",
         "-enable-batch-mode",
         "-index-store-path",
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/index/store",
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/index/store",
         "-Onone",
         "-enable-testing",
         "-j10",
         "-DSWIFT_PACKAGE",
         "-DDEBUG",
         "-module-cache-path",
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/ModuleCache",
         "-parseable-output",
         "-parse-as-library",
         "-emit-objc-header",
         "-emit-objc-header-path",
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/TestMOBFoundationSPMPackageTests-Swift.h",
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/TestMOBFoundationSPMPackageTests-Swift.h",
         "-color-diagnostics",
         "-sdk",
         "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk",
@@ -269,65 +269,65 @@
         "-package-name",
         "testmobfoundationspm"
       ],
-      "outputFileMapPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/output-file-map.json",
+      "outputFileMapPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/output-file-map.json",
       "outputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/runner.swift.o"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/runner.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPMPackageTests.swiftmodule"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPMPackageTests.swiftmodule"
         }
       ],
       "prepareForIndexing" : false,
       "sources" : [
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift"
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift"
       ],
-      "tempsPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build",
+      "tempsPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build",
       "wholeModuleOptimization" : false
     },
     "C.TestMOBFoundationSPMTests-arm64-apple-macosx15.0-debug.module" : {
       "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
-      "fileList" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/sources",
-      "importPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules",
+      "fileList" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/sources",
+      "importPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules",
       "inputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/Tests/TestMOBFoundationSPMTests/TestMOBFoundationSPMTests.swift"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/Tests/TestMOBFoundationSPMTests/TestMOBFoundationSPMTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPM.swiftmodule"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPM.swiftmodule"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/sources"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/sources"
         }
       ],
       "isLibrary" : true,
       "moduleName" : "TestMOBFoundationSPMTests",
-      "moduleOutputPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPMTests.swiftmodule",
+      "moduleOutputPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPMTests.swiftmodule",
       "objects" : [
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/TestMOBFoundationSPMTests.swift.o"
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/TestMOBFoundationSPMTests.swift.o"
       ],
       "otherArguments" : [
         "-target",
         "arm64-apple-macosx13.0",
         "-enable-batch-mode",
         "-index-store-path",
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/index/store",
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/index/store",
         "-Onone",
         "-enable-testing",
         "-j10",
         "-DSWIFT_PACKAGE",
         "-DDEBUG",
         "-module-cache-path",
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/ModuleCache",
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/ModuleCache",
         "-parseable-output",
         "-parse-as-library",
         "-color-diagnostics",
@@ -357,22 +357,22 @@
         "-package-name",
         "testmobfoundationspm"
       ],
-      "outputFileMapPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/output-file-map.json",
+      "outputFileMapPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/output-file-map.json",
       "outputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/TestMOBFoundationSPMTests.swift.o"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/TestMOBFoundationSPMTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPMTests.swiftmodule"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules/TestMOBFoundationSPMTests.swiftmodule"
         }
       ],
       "prepareForIndexing" : false,
       "sources" : [
-        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/Tests/TestMOBFoundationSPMTests/TestMOBFoundationSPMTests.swift"
+        "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/Tests/TestMOBFoundationSPMTests/TestMOBFoundationSPMTests.swift"
       ],
-      "tempsPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build",
+      "tempsPath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build",
       "wholeModuleOptimization" : false
     }
   },
@@ -388,26 +388,26 @@
       "testflyverifycsdkspm",
       "-incremental",
       "-c",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/checkouts/TestFlyVerifyCSDKSPM/Sources/TestFlyVerifyCSDKSPM/TestFlyVerifyCSDKSPM.swift",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/checkouts/TestFlyVerifyCSDKSPM/Sources/TestFlyVerifyCSDKSPM/TestFlyVerifyCSDKSPM.swift",
       "-I",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules",
       "-target",
       "arm64-apple-macosx10.13",
       "-enable-batch-mode",
       "-index-store-path",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/index/store",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/index/store",
       "-Onone",
       "-enable-testing",
       "-j10",
       "-DSWIFT_PACKAGE",
       "-DDEBUG",
       "-module-cache-path",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/ModuleCache",
       "-parseable-output",
       "-parse-as-library",
       "-emit-objc-header",
       "-emit-objc-header-path",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/TestFlyVerifyCSDKSPM-Swift.h",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/TestFlyVerifyCSDKSPM-Swift.h",
       "-color-diagnostics",
       "-swift-version",
       "6",
@@ -448,26 +448,26 @@
       "testmobfoundationspm",
       "-incremental",
       "-c",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/Sources/TestMOBFoundationSPM/TestMOBFoundationSPM.swift",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/Sources/TestMOBFoundationSPM/TestMOBFoundationSPM.swift",
       "-I",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules",
       "-target",
       "arm64-apple-macosx10.13",
       "-enable-batch-mode",
       "-index-store-path",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/index/store",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/index/store",
       "-Onone",
       "-enable-testing",
       "-j10",
       "-DSWIFT_PACKAGE",
       "-DDEBUG",
       "-module-cache-path",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/ModuleCache",
       "-parseable-output",
       "-parse-as-library",
       "-emit-objc-header",
       "-emit-objc-header-path",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/TestMOBFoundationSPM-Swift.h",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/TestMOBFoundationSPM-Swift.h",
       "-color-diagnostics",
       "-swift-version",
       "6",
@@ -505,26 +505,26 @@
       "testmobfoundationspm",
       "-incremental",
       "-c",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift",
       "-I",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules",
       "-target",
       "arm64-apple-macosx10.13",
       "-enable-batch-mode",
       "-index-store-path",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/index/store",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/index/store",
       "-Onone",
       "-enable-testing",
       "-j10",
       "-DSWIFT_PACKAGE",
       "-DDEBUG",
       "-module-cache-path",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/ModuleCache",
       "-parseable-output",
       "-parse-as-library",
       "-emit-objc-header",
       "-emit-objc-header-path",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/TestMOBFoundationSPMPackageTests-Swift.h",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/TestMOBFoundationSPMPackageTests-Swift.h",
       "-color-diagnostics",
       "-sdk",
       "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk",
@@ -560,21 +560,21 @@
       "testmobfoundationspm",
       "-incremental",
       "-c",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/Tests/TestMOBFoundationSPMTests/TestMOBFoundationSPMTests.swift",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/Tests/TestMOBFoundationSPMTests/TestMOBFoundationSPMTests.swift",
       "-I",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/Modules",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules",
       "-target",
       "arm64-apple-macosx13.0",
       "-enable-batch-mode",
       "-index-store-path",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/index/store",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/index/store",
       "-Onone",
       "-enable-testing",
       "-j10",
       "-DSWIFT_PACKAGE",
       "-DDEBUG",
       "-module-cache-path",
-      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/ModuleCache",
+      "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/ModuleCache",
       "-parseable-output",
       "-parse-as-library",
       "-color-diagnostics",
@@ -628,20 +628,20 @@
 
   },
   "testEntryPointCommands" : {
-    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift" : {
+    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift" : {
       "inputs" : [
 
       ],
       "outputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift"
         }
       ]
     }
   },
   "writeCommands" : {
-    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/sources" : {
+    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/sources" : {
       "alwaysOutOfDate" : false,
       "inputs" : [
         {
@@ -650,12 +650,12 @@
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/checkouts/TestFlyVerifyCSDKSPM/Sources/TestFlyVerifyCSDKSPM/TestFlyVerifyCSDKSPM.swift"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/checkouts/TestFlyVerifyCSDKSPM/Sources/TestFlyVerifyCSDKSPM/TestFlyVerifyCSDKSPM.swift"
         }
       ],
-      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/sources"
+      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/sources"
     },
-    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/sources" : {
+    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/sources" : {
       "alwaysOutOfDate" : false,
       "inputs" : [
         {
@@ -664,12 +664,12 @@
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/Sources/TestMOBFoundationSPM/TestMOBFoundationSPM.swift"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/Sources/TestMOBFoundationSPM/TestMOBFoundationSPM.swift"
         }
       ],
-      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/sources"
+      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/sources"
     },
-    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/sources" : {
+    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/sources" : {
       "alwaysOutOfDate" : false,
       "inputs" : [
         {
@@ -678,12 +678,12 @@
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.derived/runner.swift"
         }
       ],
-      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/sources"
+      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/sources"
     },
-    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.product/Objects.LinkFileList" : {
+    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.product/Objects.LinkFileList" : {
       "alwaysOutOfDate" : false,
       "inputs" : [
         {
@@ -692,20 +692,20 @@
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/TestMOBFoundationSPM.swift.o"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/TestMOBFoundationSPM.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/runner.swift.o"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.build/runner.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/TestMOBFoundationSPMTests.swift.o"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/TestMOBFoundationSPMTests.swift.o"
         }
       ],
-      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.product/Objects.LinkFileList"
+      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMPackageTests.product/Objects.LinkFileList"
     },
-    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/sources" : {
+    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/sources" : {
       "alwaysOutOfDate" : false,
       "inputs" : [
         {
@@ -714,12 +714,12 @@
         },
         {
           "kind" : "file",
-          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/Tests/TestMOBFoundationSPMTests/TestMOBFoundationSPMTests.swift"
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/Tests/TestMOBFoundationSPMTests/TestMOBFoundationSPMTests.swift"
         }
       ],
-      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/sources"
+      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPMTests.build/sources"
     },
-    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+    "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
       "alwaysOutOfDate" : true,
       "inputs" : [
         {
@@ -731,7 +731,7 @@
           "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
         }
       ],
-      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+      "outputFilePath" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
     }
   }
 }
