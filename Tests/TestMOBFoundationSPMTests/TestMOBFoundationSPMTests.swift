@@ -2,6 +2,7 @@ import XCTest
 @testable import TestMOBFoundationSPM
 import MOBFoundation
 
+
 final class TestMOBFoundationSPMTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation

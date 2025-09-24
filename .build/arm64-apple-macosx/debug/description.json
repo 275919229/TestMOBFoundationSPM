@@ -126,6 +126,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/Modules/TestFlyVerifyCSDKSPM.swiftmodule"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/sources"
         }
       ],
@@ -612,15 +616,21 @@
       "FlyVerifyCSDKSPM"
     ],
     "TestMOBFoundationSPM" : [
+      "TestFlyVerifyCSDKSPM",
+      "FlyVerifyCSDKSPM",
       "MOBFoundationSPM"
     ],
     "TestMOBFoundationSPMPackageTests" : [
       "TestMOBFoundationSPMTests",
       "TestMOBFoundationSPM",
+      "TestFlyVerifyCSDKSPM",
+      "FlyVerifyCSDKSPM",
       "MOBFoundationSPM"
     ],
     "TestMOBFoundationSPMTests" : [
       "TestMOBFoundationSPM",
+      "TestFlyVerifyCSDKSPM",
+      "FlyVerifyCSDKSPM",
       "MOBFoundationSPM"
     ]
   },
@@ -689,6 +699,10 @@
         {
           "kind" : "virtual",
           "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM/.build/arm64-apple-macosx/debug/TestFlyVerifyCSDKSPM.build/TestFlyVerifyCSDKSPM.swift.o"
         },
         {
           "kind" : "file",

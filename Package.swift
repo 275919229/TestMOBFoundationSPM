@@ -20,7 +20,7 @@ let package = Package(
                       path: "Frameworks/MOBFoundation.xcframework"),
         .target(
             name: "TestMOBFoundationSPM",
-            dependencies: ["MOBFoundationSPM"],
+            dependencies: ["MOBFoundationSPM",.product(name: "TestFlyVerifyCSDKSPM", package: "TestFlyVerifyCSDKSPM")],
             linkerSettings: [
                 .linkedLibrary("z"),
                 .linkedLibrary("c++"),
