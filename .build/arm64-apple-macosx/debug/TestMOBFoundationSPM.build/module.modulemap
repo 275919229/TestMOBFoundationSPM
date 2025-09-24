@@ -1,0 +1,4 @@
+module TestMOBFoundationSPM {
+    header "/Users/mob_m4/Documents/gitlab_source/TestMOBFoundationSPM.git/.build/arm64-apple-macosx/debug/TestMOBFoundationSPM.build/TestMOBFoundationSPM-Swift.h"
+    requires objc
+}
