@@ -13,7 +13,7 @@
         "source" : {
           "type" : "local"
         },
-        "targetName" : "FlyVerifyCSDKSPM"
+        "targetName" : "FlyVerifyCSDKBin"
       },
       {
         "kind" : "xcframework",
@@ -41,8 +41,8 @@
         },
         "state" : {
           "checkoutState" : {
-            "revision" : "61eb548285f3e1f617cf52dce83a721f0c839b27",
-            "version" : "1.0.0"
+            "revision" : "e16ca68b96a5250bc43e5cd4aa5577e65a0d5760",
+            "version" : "1.0.5"
           },
           "name" : "sourceControlCheckout"
         },

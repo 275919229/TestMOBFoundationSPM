@@ -89,7 +89,7 @@
         "-g",
         "-suppress-warnings",
         "-user-module-version",
-        "1.0.0",
+        "1.0.5",
         "-package-name",
         "testflyverifycsdkspm"
       ],
@@ -438,7 +438,7 @@
       "-g",
       "-suppress-warnings",
       "-user-module-version",
-      "1.0.0",
+      "1.0.5",
       "-package-name",
       "testflyverifycsdkspm",
       "-driver-use-frontend-path",
@@ -613,24 +613,24 @@
   },
   "targetDependencyMap" : {
     "TestFlyVerifyCSDKSPM" : [
-      "FlyVerifyCSDKSPM"
+      "FlyVerifyCSDKBin"
     ],
     "TestMOBFoundationSPM" : [
       "TestFlyVerifyCSDKSPM",
-      "FlyVerifyCSDKSPM",
+      "FlyVerifyCSDKBin",
       "MOBFoundationSPM"
     ],
     "TestMOBFoundationSPMPackageTests" : [
       "TestMOBFoundationSPMTests",
       "TestMOBFoundationSPM",
       "TestFlyVerifyCSDKSPM",
-      "FlyVerifyCSDKSPM",
+      "FlyVerifyCSDKBin",
       "MOBFoundationSPM"
     ],
     "TestMOBFoundationSPMTests" : [
       "TestMOBFoundationSPM",
       "TestFlyVerifyCSDKSPM",
-      "FlyVerifyCSDKSPM",
+      "FlyVerifyCSDKBin",
       "MOBFoundationSPM"
     ]
   },
